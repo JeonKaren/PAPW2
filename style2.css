@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-image: url("img/15966100.jpg");
+    font-size: 5mm;
+    }
+  
+.jumbotron{
+  background-color: #ffffff;
+    }
+  
+.card{
+      border-radius: 6%;
+
+    }
+    
+.card-img{
+    border-radius: 6%;
+
+    }
+
+.nav-link{
+      color:#331717 !important;
+    }
+
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+      }
+    }

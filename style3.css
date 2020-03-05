@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-image: url("img/cuidados.png");
+    font-size: 5mm;
+    }
+  
+.jumbotron{
+  background-color: #ffffff;
+    }
+  
+.card{
+      border-radius: 6%;
+
+    }
+    
+.card-img{
+    border-radius: 6%;
+
+    }
+
+.nav-link{
+      color:#331717 !important;
+    }
+
